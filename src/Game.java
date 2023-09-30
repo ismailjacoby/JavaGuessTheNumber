@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Game {
     private static final int EASY = 10;
     private static final int MEDIUM= 100;
